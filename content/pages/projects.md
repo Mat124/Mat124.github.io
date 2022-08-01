@@ -11,7 +11,7 @@ Flappy Bird-esque game written in Verilog for an FPGA using sprites, 7seg displa
 
 ## Audio-Visualiser
 
-Audio visualiser written in VB.net and Arduino for both desktop and LED output.
+Audio visualiser written in VB.net and Arduino for both desktop and LED output, both with customisable precision and detail.
 
 ## MentorUs
 
