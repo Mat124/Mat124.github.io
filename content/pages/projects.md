@@ -7,7 +7,7 @@ todo: make this look good and add details/photos
 
 ## Flappy Byte
 
-Flappy Bird-esque game written in Verilog for an FPGA using sprites, 7seg display and VGA to provide an arcade-like experience of the mobile game.
+Flappy Bird-esque game written in Verilog for an FPGA using sprites, 7 segment display and VGA to provide an arcade-like experience of the mobile game.
 
 ## Audio-Visualiser
 
