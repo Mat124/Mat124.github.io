@@ -13,10 +13,9 @@
       
       <guid>http://mat-k.dev/pages/projects/</guid>
       <description>todo: make this look good and add details/photos
-Flappy Byte Flappy Bird-esque game written in Verilog for an FPGA using sprites, 7seg display and VGA.
-Audio-Visualiser Audio visualiser written in VB.net and Arduino for both desktop and LED output.
-MentorUs Prototype mentorship system as a project for Deutsche Bank, written using Flask and React, deployed using Docker.
-Warwick Boring Member of the electronics and navigation team for Warwick Boring, finishing in the top 12 teams globally for the Not a Boring Competition 2021.</description>
+Flappy Byte Flappy Bird-esque game written in Verilog for an FPGA using sprites, 7seg display and VGA to provide an arcade-like experience of the mobile game.
+Audio-Visualiser Audio visualiser written in VB.net and Arduino for both desktop and LED output, both with customisable precision and detail.
+MentorUs Prototype mentorship system as a project for Deutsche Bank, written using Flask and React, deployed using Docker.</description>
     </item>
     
   </channel>
